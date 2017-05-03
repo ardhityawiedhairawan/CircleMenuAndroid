@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\filegithub\CircleMenu\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f651aacf9f2a1f614843f84903403e65eda9fd37">
+        <dex dex="D:\Android\filegithub\CircleMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b1792471a0b99434be73b5d7b2c1c2cb94d3a50d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\filegithub\CircleMenu\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\Android\filegithub\CircleMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c9109a62775a10fb5330e4e8255f7e554e80772d\classes.dex" />
+    </item>
+
+</items>
